@@ -1,0 +1,7 @@
+Summary of Cleaning:
+- Converted ScheduledDay and AppointmentDay to datetime format.
+- Removed duplicate records.
+- Standardized Gender to uppercase.
+- Removed rows with invalid Age (-1).
+- Renamed all columns to lowercase with underscores.
+- Simplified Handcap column to binary (0 or 1).
